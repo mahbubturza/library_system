@@ -40,7 +40,7 @@ DEBUG = True
 # ALLOWED_HOSTS = []
 
 ALLOWED_HOSTS = ["*"]
-CSRF_TRUSTED_ORIGINS = ['https://library-system-f65w.onrender.com/','https://*.127.0.0.1']
+CSRF_TRUSTED_ORIGINS = ['https://library-system-f65w.onrender.com','https://*.127.0.0.1']
 
 CORS_ALLOW_ALL_ORIGINS = True
 
